@@ -1,6 +1,4 @@
-# translate_diff
-
-This repository aims  to align the translation version with the latest changes in the origin version.
+# 比对翻译版本的不同
 
 ## 功能分析
 
@@ -8,11 +6,10 @@ This repository aims  to align the translation version with the latest changes i
 
 ## 功能分解
 
-* [X] 读取git指定分支的文件
-* [X] 确定已翻译文本的信息记录规范
-* [X] 对比文件计算diff，生成diff文本
+* [ ] 读取git指定分支的文件
+* [ ] 确定已翻译文本的信息记录规范
+* [ ] 对比文件计算diff，生成diff文本
 * [ ] 生成一个issue任务
-* [ ] 如何快速部署到一个新的项目中
 
 ## 翻译信息记录规范
 
@@ -40,7 +37,3 @@ This repository aims  to align the translation version with the latest changes i
 
    ```
 2. 运行 `translate_diff.py`
-
-`/translate_diff` 文件夹里面生成的是diff的HTML
-
-`translate_diff_report.md` 是diff文件的差异

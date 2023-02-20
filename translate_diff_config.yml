@@ -1,0 +1,7 @@
+check_list:
+- 源语言文件: chapters/en/chapter0/1.mdx
+  目标语言文件: chapters/zh-CN/chapter0/1.mdx
+  翻译版本的git hash: c4a44e43fa3169bbfa8c4c8b1466a59c4e334be4
+git_branch: main
+git_url: https://github.com/huggingface/course
+relavate_path: ./translate_diff/
